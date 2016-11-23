@@ -1,6 +1,11 @@
 yii2-dynamicform change Log
 ===========================
 
+dev-ht
+--------
+Fix my select2 bug
+
+
 dev-master
 ----------
 - Enh: Updated composer.json ('symfony/dom-crawler': '~2.8|~3.0' and 'symfony/css-selector': '~2.8|~3.0').

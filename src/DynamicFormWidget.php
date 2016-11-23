@@ -5,7 +5,7 @@
  * @license   https://github.com/wbraganca/yii2-dynamicform/blob/master/LICENSE
  */
 
-namespace wbraganca\dynamicform;
+namespace htsachakis\dynamicform;
 
 use Yii;
 use yii\helpers\Html;
