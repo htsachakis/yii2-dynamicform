@@ -524,7 +524,7 @@ Git
 ```
 git add --all && git commit -m "comment"
 
-git push -u origin dev-ht
+git push -u origin master
 
 git pull
 ```
